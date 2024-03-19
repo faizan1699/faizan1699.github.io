@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faizan1699.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/faizan1699.github.io/static/js/main.f4bc0d69.js",
+    "static/js/453.2f80ae05.chunk.js": "/faizan1699.github.io/static/js/453.2f80ae05.chunk.js",
+    "index.html": "/faizan1699.github.io/index.html",
+    "main.e6c13ad2.css.map": "/faizan1699.github.io/static/css/main.e6c13ad2.css.map",
+    "main.f4bc0d69.js.map": "/faizan1699.github.io/static/js/main.f4bc0d69.js.map",
+    "453.2f80ae05.chunk.js.map": "/faizan1699.github.io/static/js/453.2f80ae05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f4bc0d69.js"
+  ]
+}
